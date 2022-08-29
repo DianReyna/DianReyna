@@ -52,6 +52,8 @@ y poder crear o contribuir en aplicaciones.
 <img height=25 src="https://www.svgrepo.com/show/303109/adobe-xd-logo.svg" alt="adobeXD">
 <img height=25 src="https://www.svgrepo.com/show/53799/illustrator.svg" alt="ilustraitor">
 <img height=25 src="https://www.svgrepo.com/show/373564/drawio.svg" alt="drawio"/>
+<img height=25 src="https://www.svgrepo.com/show/349509/slack.svg" alt="slack"/>
+<img height=25 src="https://ora.pm/l/a/19d26a73ee3068856c55b996ad6e19b7.svg" alt="ora"/>
     </td>
   </tr>
 </table>
