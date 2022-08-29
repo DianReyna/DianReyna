@@ -7,7 +7,9 @@ src="https://user-images.githubusercontent.com/100873967/187053013-ba32e91d-1a22
 />
 
 ```txt
-Soy Ingeniero en Sistemas Computacionales y Desarrolladora Full Stack, puedo adaptarme fácilmente a aprender nuevas tecnologías, me encanta programar y poder crear o contribuir en aplicaciones.
+Soy Ingeniero en Sistemas Computacionales y Desarrolladora Full Stack, 
+puedo adaptarme fácilmente a aprender nuevas tecnologías, me encanta programar 
+y poder crear o contribuir en aplicaciones.
 ```
 
 <h4>📝 Lenguajes, Tecnologias y Herramientas que conosco: </h4>
@@ -26,7 +28,7 @@ Soy Ingeniero en Sistemas Computacionales y Desarrolladora Full Stack, puedo ada
 <img height=25 src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="mui">
 <img height=25 src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="bootstrap">
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       Back-End
       </br>
       <img height=25 src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="nodejs">
@@ -34,14 +36,14 @@ Soy Ingeniero en Sistemas Computacionales y Desarrolladora Full Stack, puedo ada
 <img height=25 src="https://www.svgrepo.com/show/374071/sequelize.svg" alt="sequelize">
 <img height=25 src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="express">
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       DataBase
       </br>
       <img height=25 src="https://www.svgrepo.com/show/373845/mongo.svg" alt="mongo">
 
 <img height=25 src="https://www.svgrepo.com/show/373965/pgsql.svg" alt="pgsql">
     </td>
-     <td align="center" width="96">
+     <td align="center" width="120">
       Tools
       </br>
       <img height=25 src="https://www.svgrepo.com/show/349374/git.svg" alt="git">
