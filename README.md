@@ -16,7 +16,10 @@ src="https://user-images.githubusercontent.com/100873967/187053013-ba32e91d-1a22
 />
 
 ```txt
-I am a Computer Systems Engineer, after dedicating myself to other areas, in this year 2022 I discovered that my passion is programming and that is why I decided to become a Full Stack Developer, I can easily adapt to learning new technologies, I want to share my skills and knowledge with all of you.
+I am a Computer Systems Engineer, after dedicating myself to other areas, 
+in this year 2022 I discovered that my passion is programming and that is why 
+I decided to become a Full Stack Developer, I can easily adapt to learning new technologies,
+I want to share my skills and knowledge with all of you.
 ```
 
 **More About Me:**
