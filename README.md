@@ -18,14 +18,14 @@ src="https://user-images.githubusercontent.com/100873967/187053013-ba32e91d-1a22
 ```txt
 I am a Computer Systems Engineer, after dedicating myself to other areas,
 in this year 2022 I discovered that my passion is programming and that is why
-I decided to become a Full Stack Developer, I can easily adapt to learning new technologies,
-I want to share my skills and knowledge with all of you.
+I decided to become a Full Stack Developer, I can easily adapt to learning new
+technologies, I want to share my skills and knowledge with all of you.
 ```
 
 **More About Me:**
 
 <ul>
-<li> 💬   Ask me about anything tech related, I am happy to help.</li>
+<li> 💬 Ask me about anything tech related, I am happy to help.</li>
 <li>📫 Feel free to ping me on <a href="https://www.linkedin.com/in/dianethreyna/">LinkedIn.</a></li>
 <li> 📝 Checkout my <a href="https://drive.google.com/file/d/1xZOZdYvSPl-83RqQ86kjF1TDTQARat19/view?usp=sharing">resume.</a></li>
 <li> 🍃 when I'm free, I like to watch a series, go for a walk.</li>
