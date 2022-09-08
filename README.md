@@ -27,7 +27,7 @@ technologies, I want to share my skills and knowledge with all of you.
 <ul>
 <li> 💬 Ask me about anything tech related, I am happy to help.</li>
 <li>📫 Feel free to ping me on <a href="https://www.linkedin.com/in/dianethreyna/">LinkedIn.</a></li>
-<li> 📝 Checkout my <a href="https://drive.google.com/file/d/1ZLW28ekIDuxX2xhqAdaVdM4cSkXhAKSL/view?usp=sharing">resume.</a></li>
+<li> 📝 Checkout my <a href="https://drive.google.com/file/d/1alfrA-k5CP4o_1WZ-utvHTX8Bb7DGmIU/view?usp=sharing">resume.</a></li>
 <li> 🍃 when I'm free, I like to watch a series, go for a walk.</li>
 </ul>
 
