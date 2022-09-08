@@ -33,7 +33,7 @@ technologies, I want to share my skills and knowledge with all of you.
 
 | Proyects                                                                   |                                                                                                                                                                                                                                                                                                                                                 |
 | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **PokeApp**                                                                | <a href="https://pokemon-app-three-delta.vercel.app/">Website</a>                                                                                                                                                                                                                                                                                                                                                |
+| **PokeApp**                                                                | <a href="https://pokemon-app-three-delta.vercel.app/">Website</a>                                                                                                                                                                                                                                                                               |
 | <img align="left" width=800 src="./utils/pokemonpi.jpg" alt="pokemon" />   | <p align="left"> This individual project was carried out with the purpose of affirming and connecting the concepts learned in my training as a Full Stack developer at Henry Bootcamp. The idea was to create an application in which you can see the different pokemons, create a new pokemon, search for them, sort them and filter them.</p> |
 | **HenryGift**                                                              | <a href="https://henry-gift.vercel.app/">Website</a>                                                                                                                                                                                                                                                                                            |
 | <img align="left" width=800 src="./utils/HenryGift.png" alt="henryGift" /> | <p align="left"> It is an application that starts from a traditional physical coupon book and we take it to the digital world so that users can easily access it, it was a group project that I did in Henry Bootcamp, it was carried out with the purpose of generating the experience of coding in a team adapting new technologies.</p>      |
@@ -54,15 +54,3 @@ technologies, I want to share my skills and knowledge with all of you.
 | <img height=25 src="https://www.svgrepo.com/show/373535/css.svg" alt="css3"> CSS3                |                                                                                                                                           |                                                                                             | <img height=25 src="https://www.svgrepo.com/show/373564/drawio.svg" alt="drawio"/> Drawio                |
 | <img height=25 src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="mui"> Material-Ui  |                                                                                                                                           |                                                                                             | <img height=25 src="https://www.svgrepo.com/show/349509/slack.svg" alt="slack"/> Slack                   |
 | <img height=25 src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="bootstrap"> Boostrap |                                                                                                                                           |                                                                                             | <img height=25 src="https://ora.pm/l/a/19d26a73ee3068856c55b996ad6e19b7.svg" alt="ora"/> Ora             |
-
-<!-- <div align="right">
-
-### Connect with me
-
-<a href="https://www.linkedin.com/in/dianethreyna/">
-<img height=25 src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="linkedin" />
- </a>
- <a href="https://www.instagram.com/dianreyna/">
-<img height=25 src="https://www.svgrepo.com/show/157806/instagram.svg" alt=" ig" />
- </a>
-</div> -->
