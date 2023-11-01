@@ -14,15 +14,15 @@ src="https://user-images.githubusercontent.com/100873967/187053013-ba32e91d-1a22
 />
 
 ```txt
-Soy Ingeniero en Sistemas Computacionales que luego de explorar otros campos descubrí
-mi verdadera pasión en la programación. Decidí convertirme en desarrollador front-end,
-y desde entonces, me he dedicado a perfeccionar mis habilidades y conocimientos en
-este apasionante campo.
+Soy Ingeniero en Sistemas Computacionales que luego de explorar otros campos
+descubrí mi verdadera pasión en la programación. Decidí convertirme en
+desarrollador front-end y desde entonces, me he dedicado a perfeccionar mis
+habilidades y conocimientos en este apasionante campo.
 
-Lo que me diferencia es mi capacidad de adaptarme rápidamente al aprendizaje de nuevas tecnologías.
-y mi deseo constante de crecimiento. Estoy emocionado de compartir mis habilidades y
-conocimiento con la comunidad de desarrollo, así que siéntete libre de explorar mi
-proyectos y aprende junto a mí!.
+Lo que me diferencia es mi capacidad de adaptarme rápidamente al aprendizaje
+de nuevas tecnologías.Y mi deseo constante de crecimiento. Estoy emocionado
+de compartir mis habilidades y conocimiento con la comunidad de desarrollo,
+así que siéntete libre de explorar mi proyectos y aprende junto a mí!.
 ```
 
 
