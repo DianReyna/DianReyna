@@ -48,6 +48,6 @@ así que siéntete libre de explorar mi proyectos y aprende junto a mí!.
 <ul>
 <li> 💬 Pregúntame sobre cualquier tema relacionado con la tecnología, estaré encantado de ayudarte..</li>
 <li> 📫 No dudes en enviarme un msj <a href="https://www.linkedin.com/in/dianethreyna/">LinkedIn.</a></li>
-<li> 📝 Echa un vistazo a mi <a href="https://drive.google.com/file/d/1AkVav4VaK6_750s8SOz4YQIJ1RoESEDF/view?usp=drive_link">cv</a></li>
+<li> 📝 Echa un vistazo a mi <a href="https://drive.google.com/file/d/1CPnWaF7x1RhjwN-4Ye6KHYho05d2_JDS/view?usp=sharing">cv</a></li>
 <li> 🍃 cuando estoy libre me gusta ver una serie, salir a caminar.</li>
 </ul>
